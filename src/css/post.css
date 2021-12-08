@@ -1,0 +1,36 @@
+.post{
+    margin: 50px;
+    display:flex;
+    justify-content: center;
+    font-family: 'Inter',sans-serif;
+}
+.image{
+    width:285px;
+    height:360px;
+}
+.main-content-container{
+    padding:25px;
+}
+.location{
+    text-transform:uppercase;
+    font-weight: 500;
+}
+.main-content-container div span a{
+    color:#918E9B;
+}
+.title{
+    font-size:2.5em;
+    font-weight: 700;
+}
+.date-container{
+    font-weight:bold;
+}
+.main-text{
+    max-width:500px;
+    height:100px;
+    line-height:2em;
+    overflow:hidden;
+}
+hr{
+    display:block;
+}

@@ -1,0 +1,18 @@
+
+.nav{
+    height:6em;
+    background-color: #F55A5A;
+    text-align: center;
+    position:relative;
+}
+
+.nav div{
+    color:#fff;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    Font-size: 1.5rem;
+}
+
+ 
